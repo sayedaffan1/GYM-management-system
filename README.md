@@ -1,0 +1,1 @@
+The Gym Management System is an administrative tool built using the Django framework, designed exclusively for gym admins to efficiently manage operations and communications. Users (gym members) can only send inquiries through the system, while all other functionalities are accessible only to the admin.
